@@ -6,6 +6,6 @@ module.exports = {
     performance: {
       hints: false
     }
-  }
+  },
   // css
 }
